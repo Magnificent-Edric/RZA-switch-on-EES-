@@ -1,0 +1,30 @@
+{
+    "Bus1":
+    {
+        "name": "Bus1",
+        "cVolt": "VN",
+        "number": 1,
+        "switch": "Q0"
+    },
+    "Bus2":
+    {
+        "name": "Bus2",
+        "cVolt": "SN",
+        "number": 2,
+        "switch": "Q3"
+    },
+    "Bus3":
+    {
+        "name": "Bus3",
+        "cVolt": "NN",
+        "number": 3,
+        "switch": "Q4"
+    },
+    "between Bus2 and bus3":
+    {
+        "name": "between bus2 and bus3",
+        "cVolt": "NN",
+        "number": 4,
+        "switch": "Q11"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Q0": 
+    {
+        "setting": 600,
+        "reject_probability": 80,
+        "op_time_reserve": 2000
+    },
+    "Q1":
+    {
+        "setting": 500,
+        "reject_probability": 75,
+        "op_time_reserve": 1800
+    },
+    "Q2": 
+    {
+        "setting": 500,
+        "reject_probability": 75,
+        "op_time_reserve": 1800
+    },
+    "Q3":
+    {
+        "setting": 350,
+        "reject_probability": 80,
+        "op_time_reserve": 1700
+    }, 
+    "Q4": 
+    {
+        "setting": 350,
+        "reject_probability": 80,
+        "op_time_reserve": 1700
+    },
+    "Q5":
+    {
+        "setting": 250,
+        "reject_probability": 65,
+        "op_time_reserve": 1600
+    },
+    "Q6": 
+    {
+        "setting": 250,
+        "reject_probability": 65,
+        "op_time_reserve": 1600
+    },
+    "Q7":
+    {
+        "setting": 250,
+        "reject_probability": 65,
+        "op_time_reserve": 1600
+    },
+    "Q8": 
+    {
+        "setting": 250,
+        "reject_probability": 65,
+        "op_time_reserve": 1600
+    },
+    "Q9":
+    {
+        "setting": 400,
+        "reject_probability": 70,
+        "op_time_reserve": 1700
+    },
+    "Q10": 
+    {
+        "setting": 400,
+        "reject_probability": 75,
+        "op_time_reserve": 1500
+    },
+    "Q11": 
+    {
+        "setting": 300,
+        "reject_probability": 75,
+        "op_time_reserve": 1500
+    }
+}

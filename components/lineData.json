@@ -1,0 +1,44 @@
+{
+    "W1":
+    {
+        "name":"W1",
+        "cVolt": "SN",
+        "number": 1,
+        "switch": "Q9"
+    },
+    "W2":
+    {
+        "name":"W2",
+        "cVolt": "SN",
+        "number": 2,
+        "switch": "Q10"
+    },
+    "W3":
+    {
+        "name":"W3",
+        "cVolt": "NN",
+        "number": 3,
+        "switch": "Q7"
+    },
+    "W4":
+    {
+        "name":"W4",
+        "cVolt": "NN",
+        "number": 4,
+        "switch": "Q7"
+    },
+    "W5":
+    {
+        "name":"W5",
+        "cVolt": "NN",
+        "number": 5,
+        "switch": "Q6"
+    },
+    "W6":
+    {
+        "name":"W6",
+        "cVolt": "NN",
+        "number": 6,
+        "switch": "Q5"
+    }
+}
